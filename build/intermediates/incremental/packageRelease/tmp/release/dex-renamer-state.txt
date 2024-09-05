@@ -1,0 +1,4 @@
+#Thu Sep 05 09:48:39 MSK 2024
+base.0=C\:\\Users\\Azerty\\Documents\\Godot Projects\\Serath of the End\\android\\build\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
